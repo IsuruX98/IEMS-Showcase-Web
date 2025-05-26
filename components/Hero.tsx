@@ -56,7 +56,7 @@ export default function Hero() {
                             Learn More
                         </motion.a>
                         <motion.a
-                            href="#methodology"
+                            href="#"
                             whileHover={{ scale: 1.05 }}
                             whileTap={{ scale: 0.95 }}
                             className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 border border-white/20 text-sm sm:text-base font-medium rounded-lg text-gray-300 bg-white/5 hover:bg-white/10 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-300"
